@@ -1,4 +1,4 @@
-# Game Subway Runner - Đồ án của Vũ Mạnh Hùng
+# Game Subway Runner
 
 **Họ và tên:** Vũ Mạnh Hùng  
 **Mã sinh viên:** 24022796
