@@ -62,9 +62,6 @@ void Game::init(const char* title, int xpos, int ypos, int width, int height, bo
 	obs2 = new Entity("res/envi/obs.png", 544, 250);
 
 	hp = new Heart();
-
-	// int health = hp->update(col);
-
 }
 
 void Game::handleEvents()
